@@ -115,4 +115,4 @@ client.on('messageReactionAdd', async (reaction, user) => {
         member.roles.add("957885396845469731")
 })
 
-client.login('OTU4NjI3ODg1MjY1MDgwMzkx.YkQFyg.CJebvWXv8jf3doXoRn_03GlbbaU');
+client.login('');
