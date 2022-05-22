@@ -30,8 +30,8 @@ npm install
 
   "roleSupport": "運営のロールのID",
   
-  "logsTicket": "チケットログのチャネルのID",
-  "ticketChannel": "チケットを作成するためのチャネルのID"
+  "logsTicket": "チケットログのチャンネルのID",
+  "ticketChannel": "チケットを作成するためのチャンネルのID"
 }
 ```
 
